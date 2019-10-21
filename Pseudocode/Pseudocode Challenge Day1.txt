@@ -6,7 +6,7 @@ STORE "force" without any value
 CALCULATE "mass" times "acceleration"
 SET "force" value with calculation result
 
-DISPLAY "force"
+DISPLAY "force" Newtowns
 
 
 Soal 2.
